@@ -1,0 +1,52 @@
+  .heading
+  {
+    padding-top: 50px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 30;
+    color: cyan;
+    font-weight: bold;
+    background-color: black;
+  }
+  .heading_div
+  {
+    float: none;
+    background: white; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+}
+.output
+{
+  text-align: left;
+  font-size: 30;
+  color: rgb(255, 255, 0);
+  font-weight: bold;
+  background-size: cover;
+  background-color: black;
+}
+.output_span
+{
+  white-space:pre-line;
+}
+img 
+{
+  float: left;
+  height:600px;
+  width: 350px;
+}
+#test
+{
+  float: left;
+  font-size: 20px;
+}
